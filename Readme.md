@@ -12,3 +12,4 @@
 7. git pull <remote-name> <branch-name>
 
 8. git clone <url>
+9. git checkout <branch-name>
